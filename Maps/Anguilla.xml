@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+	(c) lvcharts.net
+
+	Map Version 1.0
+
+	This work is licensed under a Creative Commons
+
+	Attribution-NonCommercial-ShareAlike 4.0 International License
+
+	https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+-->
+<LiveChartsMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Height>5070</Height>
+  <Width>5601</Width>
+  <Shapes>
+    <MapShape>
+      <Id>3618</Id>
+      <Path>M2900,3983L2866,3987L2836,3980L2833,3951L2855,3951L2868,3940L2891,3942L2900,3983ZM2776,3928L2730,3944L2692,3942L2662,3917L2634,3901L2658,3897L2698,3906L2720,3910L2776,3928ZM2146,3735L1968,3853L1863,3814L1850,3746L1951,3690L2039,3732L2146,3735ZM58,15L10,99L0,0L58,15Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6622</Id>
+      <Name>Blowing Point</Name>
+      <Path>M4090,4721L3666,4987L3634,4937L3559,4883L3506,4827L3506,4745L3630,4745L3639,4693L3799,4689L3870,4628L3965,4566L3971,4676L4045,4640L4091,4562L4090,4721Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6618</Id>
+      <Name>East End</Name>
+      <Path>M5075,3896L4852,4276L4831,4303L4836,4194L4752,4194L4814,4096L4827,4049L4738,3993L4623,3993L4623,3864L4691,3852L4690,3919L4774,3919L4835,3830L4952,3812L5078,3819L5075,3896ZM5360,3766L5256,3836L5219,3797L5262,3741L5239,3660L5323,3628L5356,3568L5510,3600L5601,3656L5530,3684L5386,3727L5360,3766Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6623</Id>
+      <Name>George Hill</Name>
+      <Path>M4091,4562L4045,4640L3971,4676L3965,4566L4091,4483L4091,4562Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6619</Id>
+      <Name>Island Harbour</Name>
+      <Path>M4690,3919L4691,3852L4835,3830L4774,3919L4690,3919Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6624</Id>
+      <Name>North Hill</Name>
+      <Path>M4251,4395L4091,4483L4003,4479L3930,4517L3933,4468L3906,4404L3964,4340L4251,4395Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6620</Id>
+      <Name>North Side</Name>
+      <Path>M4238,4292L4093,4171L4160,4071L4348,3914L4518,3883L4526,3975L4486,4087L4339,4091L4238,4292Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6630</Id>
+      <Name>Sandy Ground</Name>
+      <Path>M3930,4517L3896,4535L3691,4562L3818,4500L3906,4404L3933,4468L3930,4517Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6625</Id>
+      <Name>Sandy Hill</Name>
+      <Path>M4752,4194L4836,4194L4831,4303L4767,4387L4645,4468L4435,4532L4424,4418L4393,4381L4448,4296L4517,4110L4650,4119L4827,4049L4814,4096L4752,4194Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6621</Id>
+      <Name>South Hill</Name>
+      <Path>M4091,4483L3965,4566L3870,4628L3799,4689L3639,4693L3630,4745L3506,4745L3506,4827L3409,4900L3407,4613L3691,4562L3896,4535L3930,4517L4003,4479L4091,4483Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6627</Id>
+      <Name>Stoney Ground</Name>
+      <Path>M4623,3993L4738,3993L4827,4049L4650,4119L4517,4110L4448,4296L4298,4299L4283,4330L4238,4292L4339,4091L4486,4087L4526,3975L4518,3883L4623,3864L4623,3993Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6629</Id>
+      <Name>The Farrington</Name>
+      <Path>M4435,4532L4354,4556L4090,4721L4091,4562L4091,4483L4251,4395L4393,4381L4424,4418L4435,4532Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6626</Id>
+      <Name>The Quarter</Name>
+      <Path>M4393,4381L4251,4395L4283,4330L4298,4299L4448,4296L4393,4381Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6628</Id>
+      <Name>The Valley</Name>
+      <Path>M4238,4292L4283,4330L4251,4395L3964,4340L4019,4280L4093,4171L4238,4292Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>3615</Id>
+      <Name>West End</Name>
+      <Path>M3409,4900L3250,5019L3098,5070L2905,5067L3192,4730L3278,4660L3407,4613L3409,4900Z</Path>
+    </MapShape>
+  </Shapes>
+</LiveChartsMap>

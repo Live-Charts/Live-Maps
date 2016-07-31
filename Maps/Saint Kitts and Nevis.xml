@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+	(c) lvcharts.net
+
+	Map Version 1.0
+
+	This work is licensed under a Creative Commons
+
+	Attribution-NonCommercial-ShareAlike 4.0 International License
+
+	https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+-->
+<LiveChartsMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Height>3675</Height>
+  <Width>3610</Width>
+  <Shapes>
+    <MapShape>
+      <Id>6615</Id>
+      <Name>Christ Church Nichola Town</Name>
+      <Path>M1454,597L1375,641L1332,716L1281,837L1288,989L1187,989L913,936L898,860L819,769L956,565L942,482L1020,336L1454,597Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6612</Id>
+      <Name>Saint Anne Sandy Point</Name>
+      <Path>M595,573L516,731L465,731L407,868L328,999L0,624L49,413L184,452L227,391L292,421L277,505L595,573Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6609</Id>
+      <Name>Saint George Basseterre</Name>
+      <Path>M1902,1367L2003,1358L2037,1441L2162,1660L2345,1751L2496,1838L2630,2029L2631,2221L2383,2316L2241,2219L2122,1780L1901,1642L1756,1477L1653,1440L1528,1447L1440,1284L1469,1246L1411,1133L1483,1110L1534,1193L1686,1223L1801,1284L1902,1367Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6605</Id>
+      <Name>Saint George Gingerland</Name>
+      <Path>M3608,3234L3610,3335L3592,3437L3534,3578L3490,3627L3288,3675L3144,3151L3325,3098L3476,3151L3608,3234Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>3611</Id>
+      <Name>Saint James Windward</Name>
+      <Path>M3608,3234L3476,3151L3325,3098L3144,3151L2956,2781L2767,2643L2915,2482L3146,2487L3347,2554L3502,2705L3592,2960L3605,3065L3608,3234Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6614</Id>
+      <Name>Saint John Capesterre</Name>
+      <Path>M1020,336L942,482L956,565L819,769L595,573L588,505L516,482L480,414L472,277L472,164L431,67L462,0L1020,336Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6606</Id>
+      <Name>Saint John Figtree</Name>
+      <Path>M3288,3675L2771,3633L2666,3351L2812,3340L2993,3302L3144,3151L3288,3675Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6616</Id>
+      <Name>Saint Mary Cayon</Name>
+      <Path>M1753,865L1664,913L1548,913L1440,898L1368,996L1288,989L1281,837L1332,716L1375,641L1454,597L1571,668L1753,865Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6613</Id>
+      <Name>Saint Paul Capesterre</Name>
+      <Path>M595,573L277,505L292,421L227,391L184,452L49,413L88,246L132,206L162,185L195,172L247,159L383,101L431,67L472,164L472,277L480,414L516,482L588,505L595,573Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6607</Id>
+      <Name>Saint Paul Charlestown</Name>
+      <Path>M2666,3351L2613,3207L2942,3234L3144,3151L2993,3302L2812,3340L2666,3351Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6617</Id>
+      <Name>Saint Peter Basseterre</Name>
+      <Path>M2003,1358L1902,1367L1801,1284L1686,1223L1534,1193L1483,1110L1411,1133L1368,996L1440,898L1548,913L1664,913L1753,865L1844,963L2003,1358Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6608</Id>
+      <Name>Saint Thomas Lowland</Name>
+      <Path>M3144,3151L2942,3234L2613,3207L2699,2717L2767,2643L2956,2781L3144,3151Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6611</Id>
+      <Name>Saint Thomas Middle Island</Name>
+      <Path>M819,769L898,860L913,936L1187,989L1144,1148L1057,1193L1021,1291L996,1374L805,1296L328,999L407,868L465,731L516,731L595,573L819,769Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6610</Id>
+      <Name>Trinity Palmetto Point</Name>
+      <Path>M1368,996L1411,1133L1469,1246L1440,1284L1528,1447L1303,1460L1159,1440L996,1374L1021,1291L1057,1193L1144,1148L1187,989L1288,989L1368,996Z</Path>
+    </MapShape>
+  </Shapes>
+</LiveChartsMap>
