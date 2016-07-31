@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+	(c) lvcharts.net
+
+	Map Version 1.0
+
+	This work is licensed under a Creative Commons
+
+	Attribution-NonCommercial-ShareAlike 4.0 International License
+
+	https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+-->
+<LiveChartsMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Height>5490</Height>
+  <Width>5601</Width>
+  <Shapes>
+    <MapShape>
+      <Id>3636</Id>
+      <Name>Sark</Name>
+      <Path>M3438,5382L3339,5490L3288,5470L3324,5360L3343,5273L3312,5168L3317,5081L3349,5037L3380,4968L3421,4905L3448,4886L3530,4997L3552,5212L3438,5382ZM1464,5159L1351,5231L1277,5223L1209,5183L1117,5159L46,5159L0,5115L30,5024L117,4938L240,4914L188,4671L258,4598L395,4595L544,4563L1038,4085L1268,3987L1506,3807L1728,3709L1912,3861L1867,4010L1684,4319L1633,4687L1564,4954L1566,5022L1551,5068L1464,5159ZM5261,442L5083,488L4978,406L5064,218L5218,125L5328,113L5508,8L5555,0L5601,46L5601,141L5405,357L5261,442Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>4100</Id>
+      <Path>M2446,4286L2512,4250L2541,4411L2450,4624L2437,4556L2431,4403L2446,4286Z</Path>
+    </MapShape>
+  </Shapes>
+</LiveChartsMap>

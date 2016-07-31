@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+	(c) lvcharts.net
+
+	Map Version 1.0
+
+	This work is licensed under a Creative Commons
+
+	Attribution-NonCommercial-ShareAlike 4.0 International License
+
+	https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+-->
+<LiveChartsMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Height>817</Height>
+  <Width>2733</Width>
+  <Shapes>
+    <MapShape>
+      <Id>6242</Id>
+      <Name>Bajo Nuevo Bank [Petrel Is.]</Name>
+      <Path>M1632,730L1608,817L1559,772L1632,730ZM32,743L13,745L0,737L16,722L32,743ZM71,694L62,702L56,685L71,694ZM2427,51L2378,69L2378,24L2427,51ZM2733,15L2703,39L2716,0L2733,15Z</Path>
+    </MapShape>
+  </Shapes>
+</LiveChartsMap>

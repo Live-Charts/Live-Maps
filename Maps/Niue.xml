@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+	(c) lvcharts.net
+
+	Map Version 1.0
+
+	This work is licensed under a Creative Commons
+
+	Attribution-NonCommercial-ShareAlike 4.0 International License
+
+	https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+-->
+<LiveChartsMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Height>2105</Height>
+  <Width>1865</Width>
+  <Shapes>
+    <MapShape>
+      <Id>3584</Id>
+      <Name>Niue</Name>
+      <Path>M1105,13L1393,46L1423,101L1738,979L1865,1235L1710,1294L1608,1389L1409,1629L946,1951L862,1907L773,1944L573,2105L538,1990L450,1938L327,1931L186,1951L222,1912L250,1870L285,1829L345,1790L294,1594L269,1541L0,1452L30,1241L269,865L250,798L210,736L178,670L186,584L225,522L268,511L318,506L383,460L608,13L965,0L1105,13Z</Path>
+    </MapShape>
+  </Shapes>
+</LiveChartsMap>

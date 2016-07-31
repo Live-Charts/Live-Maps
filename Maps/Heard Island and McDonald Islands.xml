@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+	(c) lvcharts.net
+
+	Map Version 1.0
+
+	This work is licensed under a Creative Commons
+
+	Attribution-NonCommercial-ShareAlike 4.0 International License
+
+	https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+-->
+<LiveChartsMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Height>4280</Height>
+  <Width>6414</Width>
+  <Shapes>
+    <MapShape>
+      <Id>3641</Id>
+      <Name>eard Island and McDonald Islands</Name>
+      <Path>M5556,2792L5854,2913L6157,2943L6414,2905L4738,3428L4158,4044L3838,4188L3020,4280L2642,4218L2273,3922L2164,3774L1872,3292L1502,2386L1422,2095L1506,1907L1377,1800L1305,1667L1315,1528L1430,1400L1210,1251L1034,1174L390,1112L197,989L63,751L0,378L371,253L678,0L1056,429L1126,447L1208,646L1392,881L1574,1025L1658,953L1705,670L1821,543L1969,578L2121,769L1968,884L2111,1179L2349,1230L2607,1110L2805,884L3024,994L3654,1021L3914,1206L4035,1337L4285,1444L4414,1527L4499,1649L4671,1968L4757,2033L5042,2382L5159,2578L5556,2792Z</Path>
+    </MapShape>
+  </Shapes>
+</LiveChartsMap>

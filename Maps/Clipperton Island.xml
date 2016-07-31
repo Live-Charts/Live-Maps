@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+	(c) lvcharts.net
+
+	Map Version 1.0
+
+	This work is licensed under a Creative Commons
+
+	Attribution-NonCommercial-ShareAlike 4.0 International License
+
+	https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+-->
+<LiveChartsMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Height>3333</Height>
+  <Width>2659</Width>
+  <Shapes>
+    <MapShape>
+      <Id>3659</Id>
+      <Name>Clipperton Island</Name>
+      <Path>M2473,944L2659,2523L1744,3333L693,2136L0,350L924,0L2473,944Z</Path>
+    </MapShape>
+  </Shapes>
+</LiveChartsMap>

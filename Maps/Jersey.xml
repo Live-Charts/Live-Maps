@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+	(c) lvcharts.net
+
+	Map Version 1.0
+
+	This work is licensed under a Creative Commons
+
+	Attribution-NonCommercial-ShareAlike 4.0 International License
+
+	https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+-->
+<LiveChartsMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Height>1631</Height>
+  <Width>2602</Width>
+  <Shapes>
+    <MapShape>
+      <Id>3635</Id>
+      <Name>Jersey</Name>
+      <Path>M1774,116L1939,279L2464,542L2450,708L2501,778L2562,882L2602,930L2505,1020L2460,1130L2449,1271L2450,1460L2421,1631L2347,1629L2248,1556L2146,1513L1804,1506L1614,1421L1356,1157L1259,1090L1159,1047L1082,1047L992,1144L906,1301L816,1513L722,1481L582,1328L467,1280L435,1306L208,1403L93,1407L173,1041L98,657L0,325L10,116L141,69L298,116L509,232L660,221L776,184L883,113L1006,0L1094,88L1336,149L1462,232L1538,151L1608,126L1774,116Z</Path>
+    </MapShape>
+  </Shapes>
+</LiveChartsMap>

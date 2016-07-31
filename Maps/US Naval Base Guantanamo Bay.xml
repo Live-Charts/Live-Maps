@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+	(c) lvcharts.net
+
+	Map Version 1.0
+
+	This work is licensed under a Creative Commons
+
+	Attribution-NonCommercial-ShareAlike 4.0 International License
+
+	https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+-->
+<LiveChartsMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Height>952</Height>
+  <Width>1535</Width>
+  <Shapes>
+    <MapShape>
+      <Id>3620</Id>
+      <Name>Guantanamo Bay USNB</Name>
+      <Path>M544,449L442,526L410,588L347,577L328,512L266,501L204,536L164,563L167,617L302,711L452,729L466,772L282,779L20,842L0,847L43,404L601,10L809,11L718,59L686,166L773,251L847,387L675,424L544,449ZM1535,0L1534,880L1394,876L1062,935L790,952L752,882L762,685L837,626L962,570L1227,368L1280,325L1430,341L1467,218L1428,144L1292,53L1146,189L1103,160L1038,78L1067,0L1535,0Z</Path>
+    </MapShape>
+  </Shapes>
+</LiveChartsMap>

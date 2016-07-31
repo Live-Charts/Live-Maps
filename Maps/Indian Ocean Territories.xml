@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+	(c) lvcharts.net
+
+	Map Version 1.0
+
+	This work is licensed under a Creative Commons
+
+	Attribution-NonCommercial-ShareAlike 4.0 International License
+
+	https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+-->
+<LiveChartsMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Height>2009</Height>
+  <Width>9900</Width>
+  <Shapes>
+    <MapShape>
+      <Id>1616</Id>
+      <Name>Cocos (Keeling) Islands</Name>
+      <Path>M103,2003L90,2009L79,2004L76,2001L75,1995L87,1994L97,1989L104,1979L105,1966L111,1979L110,1992L103,2003ZM16,1989L29,1994L46,1988L53,1995L26,2006L10,1986L2,1953L0,1925L8,1925L8,1937L9,1946L15,1964L11,1977L16,1989Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>2574</Id>
+      <Name>Christmas Island</Name>
+      <Path>M9888,0L9900,8L9898,23L9896,45L9890,72L9890,95L9881,112L9883,139L9877,152L9860,154L9854,134L9847,116L9843,100L9827,94L9804,89L9778,90L9755,97L9752,84L9764,77L9772,57L9766,41L9766,27L9780,32L9802,44L9833,45L9849,29L9867,11L9888,0Z</Path>
+    </MapShape>
+  </Shapes>
+</LiveChartsMap>

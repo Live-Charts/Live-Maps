@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+	(c) lvcharts.net
+
+	Map Version 1.0
+
+	This work is licensed under a Creative Commons
+
+	Attribution-NonCommercial-ShareAlike 4.0 International License
+
+	https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+-->
+<LiveChartsMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Height>1410</Height>
+  <Width>6651</Width>
+  <Shapes>
+    <MapShape>
+      <Id>3581</Id>
+      <Name>Pitcairn Islands</Name>
+      <Path>M742,1408L732,1410L721,1410L712,1406L704,1399L715,1394L726,1394L735,1399L742,1408ZM6643,903L6649,904L6650,907L6651,914L6651,909L6649,906L6643,904L6642,904L6630,907L6642,903L6643,903ZM2742,578L2731,597L2708,581L2684,546L2675,508L2697,488L2727,500L2741,538L2742,578ZM13,0L12,4L7,10L2,12L0,6L2,3L6,3L9,0L13,0Z</Path>
+    </MapShape>
+  </Shapes>
+</LiveChartsMap>

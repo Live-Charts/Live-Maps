@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+	(c) lvcharts.net
+
+	Map Version 1.0
+
+	This work is licensed under a Creative Commons
+
+	Attribution-NonCommercial-ShareAlike 4.0 International License
+
+	https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+-->
+<LiveChartsMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Height>734</Height>
+  <Width>1139</Width>
+  <Shapes>
+    <MapShape>
+      <Id>3688</Id>
+      <Name>Kashmir</Name>
+      <Path>M222,95L267,87L291,86L313,93L327,105L351,137L365,151L405,168L445,171L527,161L561,164L588,178L640,222L675,241L707,244L778,234L818,232L826,233L983,260L1016,254L1046,236L1080,210L1094,205L1109,204L1139,209L721,472L302,734L151,369L0,3L6,3L53,0L73,9L89,27L115,65L133,80L153,89L176,94L222,95Z</Path>
+    </MapShape>
+  </Shapes>
+</LiveChartsMap>

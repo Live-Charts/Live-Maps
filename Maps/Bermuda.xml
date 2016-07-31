@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+	(c) lvcharts.net
+
+	Map Version 1.0
+
+	This work is licensed under a Creative Commons
+
+	Attribution-NonCommercial-ShareAlike 4.0 International License
+
+	https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+-->
+<LiveChartsMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Height>1852</Height>
+  <Width>2654</Width>
+  <Shapes>
+    <MapShape>
+      <Id>6645</Id>
+      <Name>City of Hamilton</Name>
+      <Path>M1131,1293L1018,1306L1026,1216L1131,1203L1131,1293Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6652</Id>
+      <Name>City of Saint George</Name>
+      <Path>M2327,249L2282,166L2381,102L2421,190L2327,249Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>3627</Id>
+      <Name>Devonshire</Name>
+      <Path>M1648,1140L1619,1163L1460,1259L1394,1351L1325,1216L1191,1286L1178,1124L1382,1024L1500,989L1534,951L1648,1140Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6650</Id>
+      <Name>Hamilton</Name>
+      <Path>M1622,852L1670,867L1723,864L1629,945L1596,882L1622,852ZM2011,693L2088,821L1989,889L1916,780L2011,693ZM2011,693L1924,607L1796,658L1704,724L1684,804L1631,790L1607,733L1665,591L1825,477L1980,489L2015,602L2127,642L2011,693Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6646</Id>
+      <Name>Paget</Name>
+      <Path>M958,1388L928,1418L833,1403L872,1347L958,1388ZM1143,1597L1088,1626L990,1444L1170,1332L1191,1286L1325,1216L1394,1351L1359,1398L1143,1597Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6644</Id>
+      <Name>Pembroke</Name>
+      <Path>M1178,1124L1191,1286L1131,1293L1131,1203L1026,1216L1018,1306L897,1255L802,1116L837,1069L1178,1124Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6651</Id>
+      <Name>Saint George's</Name>
+      <Path>M2317,714L2088,821L2011,693L2127,642L2317,714ZM2337,0L2654,270L2567,387L2563,504L2511,464L2433,392L2284,355L2235,412L2166,326L1980,489L1825,477L1924,321L2101,200L2337,0Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>4081</Id>
+      <Name>Sandys</Name>
+      <Path>M242,1127L311,1199L211,1286L180,1435L155,1480L211,1526L414,1551L414,1592L254,1576L65,1617L34,1541L0,1398L104,1446L89,1352L127,1225L69,1097L151,1127L190,1051L242,1127ZM340,1102L289,1126L402,966L480,891L517,821L564,777L577,785L556,869L480,941L478,1021L421,1031L376,1060L340,1102Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6649</Id>
+      <Name>Smith's</Name>
+      <Path>M1989,889L1881,964L1648,1140L1534,951L1596,882L1629,945L1723,864L1864,857L1916,780L1989,889Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6648</Id>
+      <Name>Southampton</Name>
+      <Path>M591,1699L727,1670L789,1770L578,1852L410,1847L280,1842L108,1724L65,1617L254,1576L242,1663L315,1765L436,1765L591,1699Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6647</Id>
+      <Name>Warwick</Name>
+      <Path>M1088,1626L854,1745L789,1770L727,1670L591,1699L634,1607L738,1597L923,1485L990,1444L1088,1626ZM824,1301L872,1347L833,1403L729,1418L626,1408L595,1337L630,1311L725,1337L785,1316L824,1301Z</Path>
+    </MapShape>
+  </Shapes>
+</LiveChartsMap>

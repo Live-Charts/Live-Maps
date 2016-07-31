@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+	(c) lvcharts.net
+
+	Map Version 1.0
+
+	This work is licensed under a Creative Commons
+
+	Attribution-NonCommercial-ShareAlike 4.0 International License
+
+	https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+-->
+<LiveChartsMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Height>332</Height>
+  <Width>3830</Width>
+  <Shapes>
+    <MapShape>
+      <Id>6675</Id>
+      <Name>Baker Island</Name>
+      <Path>M10,326L10,326L10,326L10,326L10,325L10,325L10,325L10,325L10,326ZM10,325L10,325L10,325L10,325Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6676</Id>
+      <Name>Howland Island</Name>
+      <Path>M8,319L8,319L8,319L8,319L8,319L8,319L8,319Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>3592</Id>
+      <Name>Jarvis Island</Name>
+      <Path>M193,332L193,332L193,332L193,332L193,332L193,332Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6677</Id>
+      <Name>Johnston Atoll</Name>
+      <Path>M87,139L87,139L87,139L87,139L87,139L88,139L87,139ZM88,139L88,139L88,139L88,139ZM87,138L87,138L87,138L87,138L87,138L88,138L88,138L88,138L88,138L87,138Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>3726</Id>
+      <Name>Kingman Reef</Name>
+      <Path>M167,256L167,256L167,256L167,256L167,256Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6678</Id>
+      <Name>Midway Islands</Name>
+      <Path>M1,0L1,0L1,0L1,0L1,0L1,0ZM0,0L0,0L0,0L0,0L0,0L0,0L0,0L0,0L0,0Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6673</Id>
+      <Name>Navassa Island</Name>
+      <Path>M1140,119L1140,119L1140,119L1140,119L1140,119L1140,119L1140,119L1140,119L1140,119L1140,119L1140,119L1140,119L1140,119L1140,119L1140,119L1140,119L1140,119L1140,119L1140,119L1140,119L1140,119L1140,119L1140,119L1140,119L1140,119L1140,119L1139,119L1139,119L1140,119Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6672</Id>
+      <Name>Palmyra Atoll</Name>
+      <Path>M171,262L171,262L171,262L171,262L170,262L170,262L170,262L170,262L170,262L170,262L170,262L170,262L170,262L170,262L170,262L170,262L171,262L171,262Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6674</Id>
+      <Name>Wake Atoll</Name>
+      <Path>M3829,109L3830,109L3830,109L3830,109L3830,109L3830,109L3830,109L3830,109L3829,109Z</Path>
+    </MapShape>
+  </Shapes>
+</LiveChartsMap>

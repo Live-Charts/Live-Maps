@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+	(c) lvcharts.net
+
+	Map Version 1.0
+
+	This work is licensed under a Creative Commons
+
+	Attribution-NonCommercial-ShareAlike 4.0 International License
+
+	https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+-->
+<LiveChartsMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Height>4728</Height>
+  <Width>3651</Width>
+  <Shapes>
+    <MapShape>
+      <Id>3605</Id>
+      <Name>Guam</Name>
+      <Path>M2919,159L3033,414L3230,558L3453,622L3648,636L3651,770L3490,1072L3148,1574L2757,1935L2049,2385L1773,2675L1616,3148L1513,4218L1240,4635L1044,4719L816,4728L629,4662L515,4456L362,4259L327,4202L259,3769L224,3692L170,3625L105,3572L24,3535L138,3420L210,3302L248,3156L259,2953L237,2858L181,2740L118,2640L0,2552L50,2466L137,2416L183,2477L337,2461L1009,2069L1164,1930L1773,1574L1892,1455L1993,1317L2082,1151L2316,383L2387,245L2518,119L2700,12L2854,0L2919,159Z</Path>
+    </MapShape>
+  </Shapes>
+</LiveChartsMap>

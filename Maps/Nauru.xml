@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+	(c) lvcharts.net
+
+	Map Version 1.0
+
+	This work is licensed under a Creative Commons
+
+	Attribution-NonCommercial-ShareAlike 4.0 International License
+
+	https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+-->
+<LiveChartsMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Height>6840</Height>
+  <Width>5708</Width>
+  <Shapes>
+    <MapShape>
+      <Id>3591</Id>
+      <Name>Buada</Name>
+      <Path>M3245,3872L3171,4387L2038,4895L1459,5387L1217,4973L1021,4309L1099,3761L1490,3370L2389,3605L3245,3872Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6487</Id>
+      <Name>Boe</Name>
+      <Path>M1459,5387L1256,5559L1042,6360L557,5183L1217,4973L1459,5387Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6488</Id>
+      <Name>Aiwo</Name>
+      <Path>M1217,4973L557,5183L0,3832L1099,3761L1021,4309L1217,4973Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6489</Id>
+      <Name>Denigomodu</Name>
+      <Path>M1490,3370L1099,3761L0,3832L370,2415L1490,3370Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6490</Id>
+      <Name>Nibok</Name>
+      <Path>M3318,3316L3288,3566L3245,3872L2389,3605L1490,3370L370,2415L716,1087L3318,3316Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6491</Id>
+      <Name>Uaboe</Name>
+      <Path>M3368,2906L3318,3316L716,1087L1233,888L3368,2906Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6492</Id>
+      <Name>Baiti</Name>
+      <Path>M3457,2239L3406,2589L3368,2906L1233,888L2019,586L3457,2239Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6493</Id>
+      <Name>Ewa</Name>
+      <Path>M3562,1533L3457,2239L2019,586L2695,326L3562,1533Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6494</Id>
+      <Name>Anetan</Name>
+      <Path>M3562,1533L2695,326L3543,0L3562,1533Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6495</Id>
+      <Name>Anabar</Name>
+      <Path>M5409,843L3562,1533L3543,0L5409,843Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6496</Id>
+      <Name>Ijuw</Name>
+      <Path>M5611,2329L4422,2041L3562,1533L5409,843L5611,2329Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6497</Id>
+      <Name>Anibare</Name>
+      <Path>M5611,2329L5708,3035L5145,4784L4266,4660L3171,4387L3245,3872L3288,3566L3318,3316L3368,2906L3406,2589L3457,2239L3562,1533L4422,2041L5611,2329Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6498</Id>
+      <Name>Meneng</Name>
+      <Path>M5145,4784L4938,5427L3543,6840L2856,6708L2038,4895L3171,4387L4266,4660L5145,4784Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6499</Id>
+      <Name>Yaren</Name>
+      <Path>M2856,6708L1042,6360L1256,5559L1459,5387L2038,4895L2856,6708Z</Path>
+    </MapShape>
+  </Shapes>
+</LiveChartsMap>

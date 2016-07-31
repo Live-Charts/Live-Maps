@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+	(c) lvcharts.net
+
+	Map Version 1.0
+
+	This work is licensed under a Creative Commons
+
+	Attribution-NonCommercial-ShareAlike 4.0 International License
+
+	https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+-->
+<LiveChartsMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Height>3975</Height>
+  <Width>3257</Width>
+  <Shapes>
+    <MapShape>
+      <Id>6515</Id>
+      <Name>Eastern</Name>
+      <Path>M552,3667L568,3653L578,3660L577,3674L559,3682L494,3685L476,3690L449,3711L438,3724L429,3722L415,3724L414,3708L406,3695L432,3662L473,3653L519,3655L552,3667Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6516</Id>
+      <Name>Manu's</Name>
+      <Path>M1833,3644L1825,3656L1810,3650L1802,3660L1793,3664L1783,3664L1772,3658L1768,3668L1761,3674L1752,3675L1741,3674L1738,3660L1734,3648L1727,3640L1719,3635L1735,3622L1759,3618L1806,3619L1828,3628L1833,3644ZM1615,3566L1588,3580L1577,3579L1570,3564L1570,3564L1579,3557L1590,3557L1602,3560L1615,3566Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>3585</Id>
+      <Name>Rose Atoll</Name>
+      <Path>M3256,3975L3243,3964L3254,3960L3257,3961L3256,3975Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6513</Id>
+      <Name>Swain's Island</Name>
+      <Path>M15,1L15,12L6,17L0,10L1,0L15,1Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6514</Id>
+      <Name>Western</Name>
+      <Path>M415,3724L429,3722L438,3724L406,3769L376,3793L369,3784L323,3753L294,3738L284,3730L332,3701L350,3697L388,3698L406,3695L414,3708L415,3724Z</Path>
+    </MapShape>
+  </Shapes>
+</LiveChartsMap>

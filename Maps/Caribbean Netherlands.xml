@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+	(c) lvcharts.net
+
+	Map Version 1.0
+
+	This work is licensed under a Creative Commons
+
+	Attribution-NonCommercial-ShareAlike 4.0 International License
+
+	https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+-->
+<LiveChartsMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Height>3282</Height>
+  <Width>2531</Width>
+  <Shapes>
+    <MapShape>
+      <Id>3602</Id>
+      <Name>Bonaire</Name>
+      <Path>M2292,936L2368,992L2484,1097L2531,1201L2402,1246L2299,1369L2380,1965L2361,2187L2265,2260L2062,2272L1988,2343L1993,2443L2104,2736L2133,2847L2114,2956L2066,3100L2005,3228L1946,3282L1816,3264L1756,3214L1522,2711L1469,2508L1449,2300L1498,1944L1505,1713L1449,1480L1278,1222L1070,1098L530,1014L284,940L74,797L0,606L157,384L74,314L121,178L193,67L300,0L454,2L622,92L857,402L952,470L1142,517L1835,851L2191,901L2292,936Z</Path>
+    </MapShape>
+  </Shapes>
+</LiveChartsMap>

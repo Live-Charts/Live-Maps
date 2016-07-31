@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+	(c) lvcharts.net
+
+	Map Version 1.0
+
+	This work is licensed under a Creative Commons
+
+	Attribution-NonCommercial-ShareAlike 4.0 International License
+
+	https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+-->
+<LiveChartsMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Height>1322</Height>
+  <Width>1299</Width>
+  <Shapes>
+    <MapShape>
+      <Id>413</Id>
+      <Name>Baykonur lease in Qyzylorda</Name>
+      <Path>M649,1322L583,1319L518,1309L456,1292L397,1270L340,1243L286,1210L236,1172L190,1130L148,1083L111,1032L78,978L51,920L29,860L13,797L3,731L0,664L3,596L13,530L29,467L51,406L78,348L111,293L148,242L190,195L236,152L286,114L340,81L397,53L456,30L518,14L583,4L649,0L716,4L780,14L842,30L902,53L959,81L1012,114L1062,152L1108,195L1150,242L1188,293L1220,348L1248,406L1269,467L1285,530L1295,596L1299,664L1295,731L1285,797L1269,860L1248,920L1220,978L1188,1032L1150,1083L1108,1130L1062,1172L1012,1210L959,1243L902,1270L842,1292L780,1309L716,1319L649,1322Z</Path>
+    </MapShape>
+  </Shapes>
+</LiveChartsMap>

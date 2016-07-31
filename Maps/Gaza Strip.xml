@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+	(c) lvcharts.net
+
+	Map Version 1.0
+
+	This work is licensed under a Creative Commons
+
+	Attribution-NonCommercial-ShareAlike 4.0 International License
+
+	https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+-->
+<LiveChartsMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Height>4848</Height>
+  <Width>3675</Width>
+  <Shapes>
+    <MapShape>
+      <Id>3684</Id>
+      <Name>Gaza Strip</Name>
+      <Path>M535,4848L335,4226L271,4011L0,3509L0,3509L249,3348L405,3143L903,2695L1128,2291L1649,1900L1869,1502L2706,635L3100,64L3127,0L3464,282L3675,546L3651,823L3289,1160L3286,1160L3118,1274L1860,2485L1620,2943L1617,3164L1709,3612L1677,3835L1287,4256L714,4682L535,4848Z</Path>
+    </MapShape>
+  </Shapes>
+</LiveChartsMap>

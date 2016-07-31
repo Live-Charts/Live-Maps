@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+	(c) lvcharts.net
+
+	Map Version 1.0
+
+	This work is licensed under a Creative Commons
+
+	Attribution-NonCommercial-ShareAlike 4.0 International License
+
+	https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+-->
+<LiveChartsMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Height>1341</Height>
+  <Width>2293</Width>
+  <Shapes>
+    <MapShape>
+      <Id>3648</Id>
+      <Name>Sigave</Name>
+      <Path>M48,1186L61,1199L57,1220L54,1238L62,1252L66,1265L43,1262L32,1256L12,1224L0,1191L9,1173L48,1186Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6510</Id>
+      <Name>`Uvea</Name>
+      <Path>M2260,0L2274,25L2288,44L2293,63L2282,87L2286,91L2288,94L2290,102L2272,105L2269,116L2275,145L2269,159L2256,162L2240,157L2230,149L2228,131L2216,112L2211,93L2230,79L2221,55L2228,33L2243,14L2260,0Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6512</Id>
+      <Name>Alo</Name>
+      <Path>M203,1295L213,1297L218,1296L227,1301L233,1305L224,1312L203,1322L187,1333L180,1341L170,1341L141,1328L131,1320L133,1311L141,1303L178,1286L190,1288L203,1295ZM155,1265L155,1273L95,1269L86,1273L72,1266L66,1265L62,1252L54,1238L57,1220L61,1199L86,1226L90,1233L104,1238L155,1265Z</Path>
+    </MapShape>
+  </Shapes>
+</LiveChartsMap>

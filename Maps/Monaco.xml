@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+	(c) lvcharts.net
+
+	Map Version 1.0
+
+	This work is licensed under a Creative Commons
+
+	Attribution-NonCommercial-ShareAlike 4.0 International License
+
+	https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+-->
+<LiveChartsMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Height>7017</Height>
+  <Width>7982</Width>
+  <Shapes>
+    <MapShape>
+      <Id>3633</Id>
+      <Name>Monaco</Name>
+      <Path>M7982,3105L7469,3645L5811,5024L4293,7017L1666,6816L0,6283L168,4528L768,2724L2425,864L4588,0L6734,1240L7982,3105Z</Path>
+    </MapShape>
+  </Shapes>
+</LiveChartsMap>

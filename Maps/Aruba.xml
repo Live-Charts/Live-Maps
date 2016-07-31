@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+	(c) lvcharts.net
+
+	Map Version 1.0
+
+	This work is licensed under a Creative Commons
+
+	Attribution-NonCommercial-ShareAlike 4.0 International License
+
+	https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+-->
+<LiveChartsMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Height>2446</Height>
+  <Width>2066</Width>
+  <Shapes>
+    <MapShape>
+      <Id>3604</Id>
+      <Name>Aruba</Name>
+      <Path>M729,623L1403,1146L1533,1288L1632,1541L2028,2037L2066,2335L1940,2446L1710,2445L1468,2351L1306,2187L1533,2187L1533,2109L1156,1927L387,1246L160,1152L48,1084L0,974L23,858L126,663L152,553L109,367L31,204L14,77L152,0L615,532L729,623Z</Path>
+    </MapShape>
+  </Shapes>
+</LiveChartsMap>

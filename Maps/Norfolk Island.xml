@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+	(c) lvcharts.net
+
+	Map Version 1.0
+
+	This work is licensed under a Creative Commons
+
+	Attribution-NonCommercial-ShareAlike 4.0 International License
+
+	https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+-->
+<LiveChartsMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Height>10507</Height>
+  <Width>9376</Width>
+  <Shapes>
+    <MapShape>
+      <Id>3645</Id>
+      <Name>Norfolk Island</Name>
+      <Path>M8017,2589L9376,3584L9186,5739L8117,7864L6830,8765L6450,9097L6214,9491L6051,9968L6069,10507L5408,8672L4267,7522L3071,7418L2283,8765L1594,8765L1359,7397L897,6112L688,4952L1141,3978L1984,2797L2047,1864L1386,1429L0,1802L1603,0L3723,476L5979,1823L8017,2589Z</Path>
+    </MapShape>
+  </Shapes>
+</LiveChartsMap>

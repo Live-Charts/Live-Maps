@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+	(c) lvcharts.net
+
+	Map Version 1.0
+
+	This work is licensed under a Creative Commons
+
+	Attribution-NonCommercial-ShareAlike 4.0 International License
+
+	https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+-->
+<LiveChartsMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Height>1399</Height>
+  <Width>1188</Width>
+  <Shapes>
+    <MapShape>
+      <Id>3634</Id>
+      <Name>Borgo Maggiore</Name>
+      <Path>M542,244L623,210L653,227L650,327L695,431L674,548L659,652L704,715L797,761L842,802L899,802L902,844L878,898L800,1007L713,1053L617,1053L611,957L569,844L509,761L425,715L362,648L365,544L365,506L401,527L455,485L446,398L398,335L344,292L398,237L463,204L542,244Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6410</Id>
+      <Name>San Marino</Name>
+      <Path>M617,1053L599,1153L551,1215L455,1215L407,1177L407,1127L398,1073L260,1011L152,994L48,999L0,897L140,877L245,840L320,794L365,736L362,648L425,715L509,761L569,844L611,957L617,1053Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6411</Id>
+      <Name>Acquaviva</Name>
+      <Path>M401,527L365,506L365,544L362,648L365,736L320,794L245,840L140,877L0,897L112,528L283,354L344,292L398,335L446,398L455,485L401,527Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6412</Id>
+      <Name>Serravalle</Name>
+      <Path>M1170,271L1076,315L971,352L878,473L791,344L695,431L650,327L653,227L623,210L542,244L463,204L754,54L1075,0L1153,146L1170,271Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6413</Id>
+      <Name>Domagnano</Name>
+      <Path>M1179,517L1140,561L1070,602L1037,627L950,631L893,711L797,761L704,715L659,652L674,548L695,431L791,344L878,473L971,352L1076,315L1170,271L1188,404L1179,517Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6414</Id>
+      <Name>Faetano</Name>
+      <Path>M1085,825L1075,845L1046,878L1029,918L959,911L917,927L878,898L902,844L899,802L842,802L797,761L893,711L950,631L1037,627L1070,602L1140,561L1179,517L1166,671L1085,825L1085,825Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6415</Id>
+      <Name>Montegiardino</Name>
+      <Path>M1029,918L1023,967L1032,1013L877,1275L863,1165L872,1069L884,1011L911,965L917,927L959,911L1029,918Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6416</Id>
+      <Name>Fiorentino</Name>
+      <Path>M917,927L911,965L884,1011L872,1069L863,1165L877,1275L833,1349L619,1380L596,1277L551,1215L599,1153L617,1053L713,1053L800,1007L878,898L917,927Z</Path>
+    </MapShape>
+    <MapShape>
+      <Id>6417</Id>
+      <Name>Chiesanuova</Name>
+      <Path>M455,1215L551,1215L596,1277L619,1380L488,1399L395,1351L155,1227L48,999L152,994L260,1011L398,1073L407,1127L407,1177L455,1215Z</Path>
+    </MapShape>
+  </Shapes>
+</LiveChartsMap>

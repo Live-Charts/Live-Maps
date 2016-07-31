@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+	(c) lvcharts.net
+
+	Map Version 1.0
+
+	This work is licensed under a Creative Commons
+
+	Attribution-NonCommercial-ShareAlike 4.0 International License
+
+	https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+-->
+<LiveChartsMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Height>3988</Height>
+  <Width>4809</Width>
+  <Shapes>
+    <MapShape>
+      <Id>3603</Id>
+      <Name>Curaçao</Name>
+      <Path>M4352,3345L4748,3750L4809,3855L4710,3923L4474,3970L4197,3988L3973,3967L3680,3827L3098,3428L2527,3256L2159,3040L1829,2772L1686,2526L1609,2294L1426,2219L1212,2199L1037,2133L889,1955L546,1395L416,1300L263,1220L136,1118L83,963L109,554L88,337L0,143L62,41L117,0L173,10L235,65L712,269L914,394L1116,571L1239,785L1356,1314L1458,1543L1867,1935L2343,2166L3746,2511L3907,2610L3973,2755L4006,2986L4093,3126L4352,3345Z</Path>
+    </MapShape>
+  </Shapes>
+</LiveChartsMap>

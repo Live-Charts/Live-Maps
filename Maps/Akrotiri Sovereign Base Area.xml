@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+	(c) lvcharts.net
+
+	Map Version 1.0
+
+	This work is licensed under a Creative Commons
+
+	Attribution-NonCommercial-ShareAlike 4.0 International License
+
+	https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+-->
+<LiveChartsMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Height>1791</Height>
+  <Width>3008</Width>
+  <Shapes>
+    <MapShape>
+      <Id>3628</Id>
+      <Name>Akrotiri</Name>
+      <Path>M898,20L956,20L1043,20L1109,5L1117,180L1174,300L1385,465L1710,550L1749,457L1888,520L1959,585L2028,457L2166,320L2532,373L2557,742L2340,742L2288,668L2159,785L2176,975L2253,1027L2332,932L2567,900L2845,900L2781,1029L2772,1401L3008,1707L3008,1791L2013,1791L2013,1707L2055,1451L1734,833L1709,599L1084,432L826,406L587,437L6,646L0,431L74,335L206,376L429,406L511,205L659,180L696,130L750,60L804,0L841,15L898,20Z</Path>
+    </MapShape>
+  </Shapes>
+</LiveChartsMap>
